@@ -1,20 +1,9 @@
-<img src="https://media.giphy.com/media/PsyWR8YLEfy1i/giphy.gif" alt="I'm Magic" width="100%" height="200px"/>
+**<img src="https://media.giphy.com/media/PsyWR8YLEfy1i/giphy.gif" alt="I'm Magic" width="100%" height="200px"/>
 
 # Hi, I'm Mirhat FİDAN :smirk:
 
 ## a young software developer eager to learn
 
-
-
-
-
-### My github stats
-<a href="https://github.com/mirhatfidan/github-readme-stats">
-  <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=mirhatfidan&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/mirhatfidan/github-readme-stats">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirhatfidan&layout=compact&theme=radical" />
-</a>
 
 
 <h3 align="center">Connect with me:</h3>
@@ -25,3 +14,11 @@
 <a href="https://www.linkedin.com/in/mirhatfidan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mirhatfidan-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/mirhatfidan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mirhatfidan-black?style=flat-square&logo=instagram"></a>
 </p>
+
+### My github stats
+<a href="https://github.com/mirhatfidan/github-readme-stats">
+  <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=mirhatfidan&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/mirhatfidan/github-readme-stats">
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirhatfidan&layout=compact&theme=radical" />
+</a>**
