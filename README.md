@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mirhatfidan&color=green" alt="mirhatfidan :: Profile Stats"></a>
 <a href="mailto:mirhatfidann@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mirhatfidann@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/mirhatfidan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mirhatfidan-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mirhat-fidan-a42524240/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mirhatfidan-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/mirhatfidan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mirhatfidan-black?style=flat-square&logo=instagram"></a>
 </p>
 
