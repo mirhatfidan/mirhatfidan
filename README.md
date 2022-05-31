@@ -1,10 +1,4 @@
-**<img src="https://media.giphy.com/media/PsyWR8YLEfy1i/giphy.gif" alt="I'm Magic" width="100%" height="200px"/>
-
-# Hi, I'm Mirhat FİDAN :smirk:
-
-## <h3 align="center"> a young software developer eager to learn
-
-
+![Banner](https://github.com/mirhatfidan/mirhatfidan/blob/main/readme.png)
 
 <h3 align="center">Connect with me:</h3>
 
